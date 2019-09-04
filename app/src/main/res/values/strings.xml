@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BiometricSample</string>
+    <string name="compatibilty_error_text">App not compatible with this device</string>
+    <string name="biometric_title_text">Authentication</string>
+    <string name="biometric_subtitle_text">Verification using biometric</string>
+    <string name="biometric_description_text">Please place your finger on sensor to see hollywood\'s coolest actress.</string>
+    <string name="biometric_no_enrolled_text">The user hasn\'t associated any biometric credentials with their account.</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="button_text">Authenticate</string>
+</resources>

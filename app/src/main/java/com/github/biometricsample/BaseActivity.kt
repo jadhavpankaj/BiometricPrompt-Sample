@@ -39,7 +39,7 @@ abstract class BaseActivity : AppCompatActivity() {
                         applicationContext,
                         "Authentication error: $errString",
                         Toast.LENGTH_SHORT
-                    ).show()
+                    ).show();
                 }
 
                 override fun onAuthenticationSucceeded(

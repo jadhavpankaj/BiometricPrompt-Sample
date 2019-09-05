@@ -10,4 +10,4 @@ https://developer.android.com/reference/kotlin/android/hardware/biometrics/Biome
 
 'Authenticate' will invoke BiometricPrompt, If the device is compatible. After successful verification, Megan Fox will appear.
 
-<br /><img src="https://github.com/Pankaj-J/BiometricPrompt-Sample/blob/master/screenshots/one.jpg" alt="one" width="200"/> <img src="https://github.com/Pankaj-J/BiometricPrompt-Sample/blob/master/screenshots/two.jpg" alt="two" width="200"/> <img src="https://github.com/Pankaj-J/BiometricPrompt-Sample/blob/master/screenshots/three.jpg" alt="three" width="200"/>
+<br /><img src="https://raw.github.com/Pankaj-J/BiometricPrompt-Sample/master/screenshots/one.jpg" alt="one" width="200"/> <img src="https://raw.github.com/Pankaj-J/BiometricPrompt-Sample/master/screenshots/two.jpg" alt="two" width="200"/> <img src="https://raw.github.com/Pankaj-J/BiometricPrompt-Sample/master/screenshots/three.jpg" alt="three" width="200"/>
